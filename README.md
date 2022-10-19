@@ -26,15 +26,13 @@ on which square the beanbag lands on and which game grid has been randomly gener
 for current round. The player points talley is shown on the screen and kept track 
 of throughout the game so that the winner(or tie) can be announced at the end!!
 
-We have several code modules which can all be found in the tests folder:
+We have several code modules:
 
 lasers.c - contains functions to check laser beam interrupt at given pin and identify cell containing intersection (and more)
 
 led.c - contains functions to turn on grid given randomly generated grid of points/colors
 
 rand_pt_gen.c - contains several functions to generate random grid of points/colors
-
-num_str.c - contains the unsigned to base function for print f 
 
 graphics.c - contains the code to run the game as well as the graphics for the game
 
