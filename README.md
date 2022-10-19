@@ -28,11 +28,15 @@ of throughout the game so that the winner(or tie) can be announced at the end!!
 
 We have several code modules:
 
+Authored by Akhilesh:
+
 lasers.c - contains functions to check laser beam interrupt at given pin and identify cell containing intersection (and more)
 
 led.c - contains functions to turn on grid given randomly generated grid of points/colors
 
 rand_pt_gen.c - contains several functions to generate random grid of points/colors
+
+Authored by Natalie:
 
 graphics.c - contains the code to run the game as well as the graphics for the game
 
